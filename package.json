@@ -29,12 +29,12 @@
     "preversion": "standard"
   },
   "dependencies": {
-    "brfs": "1.4.3",
     "hyperglue": "2.0.1",
     "insert-css": "2.0.0",
     "xtend": "4.0.1"
   },
   "devDependencies": {
+    "brfs": "1.4.3",
     "standard": "10.0.2"
   },
   "license": "MIT"
